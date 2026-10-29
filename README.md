@@ -39,7 +39,15 @@ Portfolio/
 |──├── js/
 |──   └── script.js
 
+index.html: página inicial do portfólio.
+sobre.html: página com informações sobre o autor.
+acps.html: página destinada às atividades complementares.
+cursos.html: página que apresenta os cursos realizados.
+projetos.html: página dedicada aos projetos desenvolvidos.
+css/style.css: arquivo de estilos visuais do projeto.
+js/script.js: arquivo para funcionalidades JavaScript.
 
+README.md: arquivo com a documentação do projeto.
 ## Sobre o autor
 
 **Nathan Sobottka Silvério**
