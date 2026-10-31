@@ -206,4 +206,5 @@ h3 { margin-bottom: .4rem; }
   .highlights, .cards-3, .project-grid, .contact-grid { grid-template-columns: 1fr; }
   .project-card { grid-template-columns: 1fr; }
   .project-image img { min-height: 200px; }
+  .project-info {margin-left: 1px}
 }
